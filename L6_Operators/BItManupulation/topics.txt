@@ -1,0 +1,5 @@
+We will all study about the bit manupulation the topics are
+     Get 
+     Set
+     Clear
+     Update
